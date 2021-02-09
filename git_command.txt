@@ -1,0 +1,4 @@
+github list commands
+
+To init git from a folder:
+
