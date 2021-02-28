@@ -1,0 +1,9 @@
+#day 1
+
+git init
+git status
+git add .
+git commit -m "initial commit"
+git remote add origin <your github repo link>
+git push -u origin master
+
